@@ -1,5 +1,6 @@
-Movie Recommendation System Using Collaborative Filtering
-Project Overview
+#  Movie Recommendation System Using Collaborative Filtering
+
+#Project Overview
 This project implements a Movie Recommendation System using Collaborative Filtering. The system predicts and recommends movies to users based on user preferences and similar users' behavior. The system is built using Python and leverages the MovieLens dataset for its implementation.
 
 Key Features
